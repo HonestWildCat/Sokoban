@@ -223,3 +223,7 @@ input.btn.horisontal{
     border-left: 0.5vh solid rgba(135, 160, 194, 0.7);
     box-shadow: 0.5vh 0.5vh 0 rgba(24, 55, 82, 0.7);
 }
+
+#center{
+    opacity: 0;
+}
